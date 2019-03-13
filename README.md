@@ -12,9 +12,7 @@ modelos de negocio que permitan a los emprendedores brindar soluciones por medio
 importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
 se acerca a su fin.
 
-Tan solo en México durante 2016 el 75% de los internautas Mexicanos realizaron una compra en línea. En 2017 el 65.5% de la 
-población tuvo acceso a Internet, lo que equivale a 85 millones de personas, de las cuales el 32% ya había hecho alguna compra 
-por internet.
+Fabiola Ruiz
 
 El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
 conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
