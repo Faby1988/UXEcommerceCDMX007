@@ -1,6 +1,10 @@
-# Plataforma de ventas en línea
+# Bio Aquatic
 
 ## Preámbulo
+
+El acuarismo es una actividad que se desarrolla muy bien en México ya que tenemos las condiciones climáticas idóneas para el desarrollo de la acuacultura.
+
+Esta actividad surge en el año 3500 a.C. en China, cuando variedades de la carpa dorada fueron utilizados como peces ornamentales; posteriormente, durante la dinastía Song (960 a 1279 d.C.) se popularizó la crianza de peces de ornato y fue en el siglo XIV cuando comenzó la producción de las peceras de porcelana.
 
 Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
 empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
