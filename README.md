@@ -6,19 +6,10 @@ El acuarismo es una actividad que se desarrolla muy bien en México ya que tenem
 
 Esta actividad surge en el año 3500 a.C. en China, cuando variedades de la carpa dorada fueron utilizados como peces ornamentales; posteriormente, durante la dinastía Song (960 a 1279 d.C.) se popularizó la crianza de peces de ornato y fue en el siglo XIV cuando comenzó la producción de las peceras de porcelana.
 
-Los modelos de negocio que hicieran exitosas a empresas en el pasado, no son los mismos que pueden llevar al éxito a las 
-empresas en la actualidad. El mundo ha cambiado y tenemos oportunidades de crecimiento para la generación de innovadores 
-modelos de negocio que permitan a los emprendedores brindar soluciones por medio de la transformación de la industria. Es 
-importante que los modelos de negocio tradicional integren plataformas de e-commerce viceversa. La época de los pure players 
-se acerca a su fin.
+Sus beneficios radican principalmente por la generación empleos, en el desarrollo económico de las comunidades que practican su cultivo de manera sustentable, aplicando medidas preventivas y de bioseguridad en toda la cadena productiva.
 
-Fabiola Ruiz
+Los aficionados y expertos crecen año con año y esto permite descubrir un mundo cautivador, lleno de color y conocimiento. ¿Quieres saber más?
 
-El e-commerce en México tiene un gran potencial de crecimiento, México necesita casos de éxito, pero estos casos no se 
-conseguirán en corto plazo, esto será el resultado de construir un círculo virtuoso donde quepan el progreso de la economía y 
-el de la sociedad.
-
-¿Podemos como País estar preparados para escalar modelos de negocios que tengan cabida en la nueva era?
 
 ## Introducción
 
