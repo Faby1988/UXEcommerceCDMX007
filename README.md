@@ -10,6 +10,7 @@ Sus beneficios radican principalmente por la generación empleos, en el desarrol
 
 Los aficionados y expertos crecen año con año y esto permite descubrir un mundo cautivador, lleno de color y conocimiento. ¿Quieres saber más?
 
+
 ## Introducción
 
 ### “Nuevo portal de e-commerce”
