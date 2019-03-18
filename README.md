@@ -13,136 +13,67 @@ Los aficionados y expertos crecen año con año y esto permite descubrir un mund
 
 ## Introducción
 
-### “Nuevo portal de e-commerce”
+### Entendiendo el problema
 
-Con la finalidad de reducir la brecha tecnológica entre las y los propietarios de pequeños emprendimientos, lanzamos una 
-iniciativa a través de la cual las estudiantes del track de UX podrán elegir a **uno** de estos negocios para asesorarles y 
-crear un portal desde donde los consumidores puedan acceder a sus productos y servicios más fácilmente e incluso realizar una 
-compra. Entre los emprendimientos que puedes elegir están:
+El primer acercamiento con Bio Aquatic fue la exploración de la página de Facebook. Ahí conocimos más sobre la identidad del cliente gracias a los datos presentados, como: la ubicación, el logo y la descripción general. También, analizamos el tipo de publicaciones, así como la interacción con los usuario. 
 
-- Bio Aquatic
-- Cucú Caramelo
-- Almas Dulces
-- Vaca Sagrada
-- Luna Maya 
-- Solovino Club
-- Yi-yi portabebés
-- Kuuch Kalán
-- Darjeeling MX
-- Juntitos los dos
+<a href="https://ibb.co/9vX04fn"><img src="https://i.ibb.co/FWv1Yf6/Bio-Aquatic-face.png" alt="Bio-Aquatic-face" border="0"></a>
 
-Consulta la información de estos emprendimientos [aquí](https://docs.google.com/spreadsheets/d/1bkLd6lVd0Ev3ytCfX_20_q8wL_ENKhYXEsSU8MWNHA8/edit#gid=0)
+Al revisar el muro, encontramos tres observaciones importantes:
 
-Luego de elegir con quién trabajarás, ayudarás al emprendedor o emprendedora por medio de un estudio inicial a poder 
-visualizar cómo debería ser este portal de ventas, así como una mejor forma de ofrecer los productos a los consumidores. Para 
-ello, necesitarás averiguar cómo son las y los usuarios que utilizarían este canal de venta y cuáles son sus motivaciones, 
-cómo es el mercado actual en el que incursionarán; y que propongas una visión de cómo podría plantearse este nuevo canal.
+* Son recurrentes las publicaciones en donde se enlista el stock acompañado de los precios y como pie de publicación una selección de   fotos de los productos.
+* Los usuarios preguntan sobre la ubicación del local.
+* Los usuarios solicitan más información sobre los peces enlistados.
+* Los usuarios preguntan sobre los envíos y las respuestas los remiten a whattsApp.
 
-Una vez conozcas a los posibles compradores debes formular una propuesta de
-valor. Esto quiere decir que debes pensar cómo este portal va a comunicar sus
-beneficios a los usuarios y cómo va a vender sus productos. Para que guíes a la
-empresa que elijas a entender tu visión, esperan que les hagas una propuesta de
-cómo podría ser el portal donde las personas puedan buscar, ver, elegir y
-comprar sus productos.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/sHK08pj/stock-face.png" alt="stock-face" border="0"></a>
 
-## Objetivos de aprendizaje
+Con esta exploración general, continuamos con el contexto. El propósito fue conocer el fondo de esta temática, queríamos saber qué es lo que pasa en México y el mundo. Descubrimos que es una actividad que encierra toda una subcultura muy rica en interacciones. 
 
-El objetivo principal de aprendizaje de este proyecto es entender cómo pasamos
-de lo que un cliente quiere alcanzar a la definición de un producto digital en
-poco tiempo. Entender los principales pasos y preguntas que debemos hacernos,
-cómo involucrar a los usuarios y su feedback y cómo usar esos resultados sin
-perder de vista los objetivos iniciales.
-Esperamos que en este proyecto puedas entender las necesidades y falencias de
-las empresas, aprender y empezar a empaparte de los posibles modelos de negocio
-así como investigar a su audiencia, los usuarios que consumen sus productos,
-entendiendo sus preferencias y contexto en el que lo hacen.
+<a href="https://ibb.co/JzT10m5"><img src="https://i.ibb.co/brV0qQz/panorama.png" alt="panorama" border="0"></a>
 
-De la misma manera deberás definir cuál es la mejor forma de ofrecerle los
-productos de tu cliente a sus usuarios, y, pensando en una propuesta de valor y
-sus objetivos. También, deberás definir los contenidos, la interacción y el
-diseño del proceso a partir del cual el usuario podrá hacer sus pedidos en esta
-plataforma.
-Este proyecto se debe "resolver" en parejas, por lo que un objetivo importante
-es ganar experiencia en trabajos con entrega grupal. Cada uno de las integrantes
-será responsable de una parte del trabajo: (1) el entendimiento del problema y
-(2) planeamiento y validación de la solución.
+Esta investigación, no dio datos importantes:
+* La mayoría de los peces de ornato comercializados en México son de procedencia asiática.
+* La mayor parte de los miembros de la cadena productiva(mayoristas, importadores y detallistas) no cumplen con la mayor parte de las normas vigentes.
+* En la década reciente, el mercado de los peces de ornato ha crecido 250 por ciento, un incremento histórico tras 66 años de existencia.
 
-## Tópicos a cubrir
+Ahora bien, los puntos anteriores nos dieron una pista sobre el siguiente paso a considerar. En este sentido, fue necesario conocer más sobre el marco legal de este negocio, ya que resulta crucial para el tipo de propuestas a desarrollar. 
 
-Para completar este proyecto tendrás que familiarizarte con conceptos como: UX
-research (entrevistas, benchmark), arquitectura de la información (flujo de
-contenido, mapa de sitio), diseño visual y de interacción (wireframes y
-prototipado), y user testing.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6WW0NQs/Ley.png" alt="Ley" border="0"></a>
 
-## Consideraciones generales
+Del conjunto de normas y leyes, se destaca:
+Los peces importados deben ser sometidos a cuarentena una vez que llegan a México para asegurar la sanidad.
+El transporte de animales vivos debe disminuir su sufrimiento, evitándose tensiones o reduciéndose durante todo el proceso.
 
-Para ser una gran UX no sólo debes familiarizarte con los conceptos sino,
-también, poner a prueba tus habilidades blandas. El uso de tu curiosidad y
-empatía son claves para el éxito laboral.
-Para poder realizar una buena entrevista, un benchmark o un user testing
-necesitas en todo momento estar atenta al cómo y no sólo al qué. En este
-sentido, es esencial que practiques el modo en que te comunicas frente al
-cliente y el usuario. Debes pensar quiénes son y qué es lo que necesitan, y no
-sólo enfocarte en lo que tú quieres comunicar.
+El siguiente paso, fue conocer al gerente general y al encargado de los envíos. Realizamos entrevistas semiestructuradas y visitamos las instalaciones de Bio Aquatic. 
 
-* Relación con el cliente: la empresa miembro con la que te toque trabajar será
-tu cliente. Saber relacionarte con ellos no es fácil. Para comenzar una buena
-relación con el cliente debes escuchar de manera activa qué es lo que necesitan,
-haciendo preguntas que te ayuden a entender sus necesidades para luego buscar
-cómo resolverlas. No trates de dar soluciones inmediatas, escucha y pregunta, la
-curiosidad es clave para entender la problemática. El problema del cliente no
-siempre es el primero que parece, debes investigar la empresa y la competencia
-para entender lo que sucede. Para mantener una buena relación con los clientes
-debes mostrarle cómo se beneficiarán de lo que ofreces; enséñale los posibles
-resultados y el beneficio que ellos podrían obtener. También debes estudiar las
-mejores prácticas en la industria del comercio electrónico para poder mostrarle
-al cliente casos de éxito.
+Entrevista con Roberto https://drive.google.com/open?id=1MjVV26EF2fqfPzuMChBcS_H32q38OMTZ
 
-* Benchmark: revisar referencias y dar referencias es clave para tu relación con
-el cliente. Antes de comenzar a crear cualquier producto debes revisar qué está
-haciendo la competencia o industrias similares. De esta manera, puedes traer
-buenas prácticas y evitar replicar aquellas que no son exitosas. Esto al cliente
-le da la confianza de que efectivamente tienes conocimiento de su problemática y
-que has estudiado todas las posibles soluciones. Para que el benchmark sea
-efectivo, tu curiosidad y pensamiento crítico deben ser altos; no sólo buscar
-las referencias que resulten obvias, sino otras industrias que puedan funcionar
-de manera similar o empresas pequeñas que están teniendo casos de éxito.
+Entrevista con Andrés
+https://drive.google.com/open?id=1hKz1oWPDWo25VJ_n_Swney4rgqL-S_Uk
 
-* Presentación del plan, a dónde vas a ir y por qué: al resolver la problemática
-debes realizar un plan de trabajo, donde se visualicen las herramientas que
-estás utilizando y por qué las escogiste. No todas las problemáticas requieren
-que utilices las mismas herramientas. Debes utilizar la que mejor se ajuste. Es
-importante que siempre sustentes tu idea, no se trata de trabajar de manera
-mecánica para entregar algo al cliente, sino argumentar por qué esa es la mejor
-manera de aproximarse a una posible solución.
+También, recorrimos el mercado de peces y encuestamos a cinco usuarios del mismo. En esta visita, conocimos a la sra. Rosa una locataria del mercado, quien nos habló de la dinámica que se vive, así como de algunas características de los demás comercios.
 
-* Testing centrado en el usuario: Realizar las pruebas con los usuarios
-garantiza que los problemas se detecten antes, las buenas ideas se introducen
-más rápido y se reducen los esfuerzos de diseño y desarrollo de productos
-innecesarios. Steve Jobs, una vez dijo: "El diseño no es sólo cómo se ve y cómo
-se siente. El diseño es cómo funciona”. Las pruebas de usabilidad son una
-técnica que ayuda a evaluar un producto al probarlo con usuarios reales. El
-testing es una buena forma de profundizar en las necesidades y preferencias de
-los usuarios observando sus reacciones mientras usan un producto. Para que el
-testing realmente esté centrado en el usuario, tú debes centrarte también en él,
-actuando con curiosidad y empatía en todo momento, preguntando de manera activa
-al usuario qué podrías mejorar y buscar aquellos errores que llevarán tu
-producto al siguiente nivel. No trates de que el usuario apruebe tu producto,
-llévalo a buscar las mejoras y posibles errores, generando una relación de
-confianza con el usuario.
+<a href="https://ibb.co/t3jkHmD"><img src="https://i.ibb.co/fQ6BX1H/IMG-20190307-121741.jpg" alt="IMG-20190307-121741" border="0"></a>
 
-Tu curiosidad, empatía y pensamiento crítico son claves para tu éxito como UX
-Designer. En cada herramienta que utilices debes poner a prueba tus soft skills.
-Nunca des nada por supuesto, siempre pregunta hasta encontrar nuevas respuestas,
-debes actuar en todo momento con un pensamiento crítico, sino harás de manera
-mecánica tus proyectos sin encontrar soluciones innovadoras. Sé una
-investigadora, tu curiosidad es clave en los procesos creativos; pregunta
-constantemente y no intentes buscar soluciones inmediatas, aprende a navegar con
-la incertidumbre. La empatía es la habilidad que te va a guiar en las relaciones
-tanto con el cliente como con el usuario, intenta salir de tu mente y tus
-supuestos para entender cómo piensan los otros.
+<a href="https://ibb.co/sVxDhzw"><img src="https://i.ibb.co/0G4WkvM/IMG-20190307-121542.jpg" alt="IMG-20190307-121542" border="0"></a>
 
-## Parte Obligatoria
+<a href="https://ibb.co/wcbQd73"><img src="https://i.ibb.co/nPV1wBZ/IMG-20190307-121659.jpg" alt="IMG-20190307-121659" border="0"></a>
+
+El conjunto de información recabada, resultó muy enriquecedora y a la vez, abrumadora. Teníamos una idea sobre la situación a la que nos enfrentamos y dimos orden cada dato relevante. Para ello elaboramos un diagrama de afinidad.
+
+<a href="https://ibb.co/fdz1xP4"><img src="https://i.ibb.co/s9dmVMy/afinidad.png" alt="afinidad" border="0"></a>
+
+Seguido, realizamos una compra vía remota, para conocer el proceso y tener mayor conciencia de los dolores y satisfacciones que esto implica. La simulación de compra la llevamos a cabo con otros dos competidores, a saber, Hábitat Nature Aquariums y Aquaplantas MX. Como resultado de estas acciones, realizamos tres Customer Journey Map.
+
+<a href="https://ibb.co/FzTvF8M"><img src="https://i.ibb.co/M70TmP4/cjm-bio-Aquatic.png" alt="cjm-bio-Aquatic" border="0"></a>
+
+Posteriormente, encuestamos a dos clientes de Bio Aquatic para tener de primera mano los sentires sobre el trato, la compra y la interacción con la marca. Para este punto, construimos un User Persona.
+
+Una vez, realizado la síntesis y el análisis, avanzamos hacia la ideación. Recopilamos los insigth que hasta el momento detectamos al triangular la información (cliente-usuario-contexto).
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/gm6CcxC/insigth.png" alt="insigth" border="0"></a>
+
 
 ### 1) General
 
@@ -277,34 +208,3 @@ Puedes usar los frameworks que quieras. Recuerda que la aplicación tiene que se
 mobile-friendly. Despliega el código en GitHub Pages o Heroku.
 - Escribe un post en Medium contando tu proceso de investigación
 
-## Evaluación
-Recuerda revisar la rúbrica para ver la descripción detallada de cada habilidad y cada nivel. 
-A continuación presentamos las habilidades que deberías desarrollar durante este proyecto:
-
-### UX Design
-
-|Habilidad|
-|:---|
-|User centricity
-|Planificación
-|Entrevistas y testing
-|Observación
-|Síntesis de resultados
-|Flujos de usuario
-|Arquitectura de la información
-|Prototyping
-|Business mindset
-|Visual Design
-
-### Habilidades blandas
-
-|Habilidad|
-|:---|
-|Planificación y organización
-|Autoaprendizaje
-|Solución de problemas
-|Dar y recibir feedback
-|Adaptabilidad
-|Trabajo en equipo
-|Comunicación eficaz
-|Presentaciones
