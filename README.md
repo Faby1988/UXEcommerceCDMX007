@@ -16,21 +16,33 @@ Los aficionados y expertos crecen año con año y esto permite descubrir un mund
 
 Bio Aquatic es una tienda especializada en la venta de peces de ornato y paisajismo acuático. Cuentan con 10 años de experiencia, ofreciendo productos de alta calidad, sin genéricos y asegurando la sanidad de los elementos vivos. Se destaca por contar con marcas altamente reconocidas. 
 
+
   <a href="https://ibb.co/0XW7x51"><img src="https://i.ibb.co/yRM9r2K/identidad.png" alt="identidad" border="0"></a>
+  
 
 ### Propuesta
 
-* Objetivos del proyecto
+El trabajo de investigación realizado nos permitió reconocer los principales dolores y beneficios del cliente y los usuarios, con lo cual determinarmos: 
 
 <a href="https://ibb.co/KK0kyFq"><img src="https://i.ibb.co/BnzxsqZ/Objetivo.png" alt="Objetivo" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a>
 
-* Problemas identificados en la investigación (del cliente y del usuario)
+## Problemas identificados en la investigación (del cliente y del usuario)
 
-El acercamiento a la situación a resolver lo efectuamos a partir de tres acciones. 
+El acercamiento a la situación a resolver lo efectuamos a partir de tres acciones: 
 
 <a href="https://ibb.co/1fqsQTW"><img src="https://i.ibb.co/4ZTstpr/proceso.png" alt="proceso" border="0"></a>
 
-https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing
+Para conocer el proceso a detalle, [leer](https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing). 
+
+Gracias al contacto con las personas involucradas en el desarrollo del negocio, pudimos detectar las siguientes dificultades:
+
+| Cliente| Usuarios|
+| ------ | ---- |
+| Hay desconocimiento por las opciones de pago. | La gama de productos no es evidente, requieren de explorar la página o realizar varias preguntas para conocerlo. |
+| La interacción por medio de internet tiene un carácter secundario. | El tiempo de espera para obtener respuestas es prolongado. |
+
+
+<a href="https://ibb.co/pfJWCFr"><img src="https://i.ibb.co/ZBWHyD1/Problema.png" alt="Problema" border="0"></a>
 
 * Definición del público objetivo
     * User persona
