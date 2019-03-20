@@ -20,7 +20,7 @@ Bio Aquatic es una tienda especializada en la venta de peces de ornato y paisaji
   <a href="https://ibb.co/0XW7x51"><img src="https://i.ibb.co/yRM9r2K/identidad.png" alt="identidad" border="0"></a>
   
 
-### Propuesta
+## Propuesta
 
 El trabajo de investigación realizado nos permitió reconocer los principales dolores y beneficios del cliente y los usuarios, con lo cual determinarmos: 
 
@@ -42,12 +42,33 @@ Gracias al contacto con las personas involucradas en el desarrollo del negocio, 
 | La interacción por medio de internet tiene un carácter secundario. | El tiempo de espera para obtener respuestas es prolongado. |
 
 
+
 <a href="https://ibb.co/pfJWCFr"><img src="https://i.ibb.co/ZBWHyD1/Problema.png" alt="Problema" border="0"></a>
 
-* Definición del público objetivo
-    * User persona
-    * Customer Journey Map (indicando pain y gain points)
-* Definición de la solución/producto
+## Definición del público objetivo
+
+Bio Aquatic cuenta con una trayectoria extendida, por lo que reconocer quiénes son los principales destinatarios de este servicio 
+parecía obvio; sin embargo, reconocer las características particulares requirió examinar a otro tipo de usuarios y amantes de los peces. Fue necesario revisar los diferentes perfiles:
+
+<a href="https://ibb.co/mz2VW0d"><img src="https://i.ibb.co/kcwsCJz/ejes-2.png" alt="ejes-2" border="0"></a>
+
+Para poder concluir, con nuestro cliente ideal:
+
+<a href="https://ibb.co/3StrsSx"><img src="https://i.ibb.co/r5n7t5B/user-person.png" alt="user-person" border="0"></a>
+
+Como se puede observar, Javier entraría dentro de la categoría de "los apasionados", el cliente conocedor e interesado por adquirir productos de alta calidad.
+
+Ahora bien, tomando en cuenta las necesidades de Javier, si realiza un búsqueda desde el muro de Facebook, se enfrenta al siguiente escenario:
+
+<a href="https://ibb.co/yh33LSd"><img src="https://i.ibb.co/CJrrx2m/cjm-bio-Aquatic.png" alt="cjm-bio-Aquatic" border="0"></a>
+
+    
+## Definición de la solución/producto
+
+Javier requiere comprar productos de alta calidad para el cuidado del hábitat de sus peces, buscará variedad y productos exóticos, y también, reducción del tiempo de espera, una selección rápida de productos y la generación de la lista de compra fácil.
+
+
+
 * Link a prototipo navegable
 * Explicación de cómo los contenidos y funcionalidades responden a los objetivos
   del proyecto. 
