@@ -38,7 +38,7 @@ Gracias al contacto con las personas involucradas en el desarrollo del negocio, 
 
 | Cliente| Usuarios|
 | ------ | ---- |
-| Hay desconocimiento por las opciones de pago. | La gama de productos no es evidente, requieren de explorar la página o realizar varias preguntas para conocerlo. |
+| Hay desconocimiento por las opciones de pago. | La gama de productos no es evidente, requieren explorar la página o realizar varias preguntas para conocerlo. |
 | La interacción por medio de internet tiene un carácter secundario. | El tiempo de espera para obtener respuestas es prolongado. |
 
 
