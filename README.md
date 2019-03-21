@@ -119,11 +119,24 @@ Con lo anterior generamos los siguientes beneficios a los usuarios:
 
 Así, destacamos la experiencia y mejoramos los procesos de interacción de clientes-negocio.
 
-El proceso de compra 
+El flujo de la app es el siguiente: 
 
 https://www.useloom.com/share/ccd770632ba24fceb1a9a0b7713085e9
 
+<a href="https://ibb.co/KKf9Ft8"><img src="https://i.ibb.co/8Yfj6yQ/Diagrama-de-flujo.png" alt="Diagrama-de-flujo" border="0"></a>
 
+La propuesta radica en la posibilidad de generar un código que permita contener la información del pedido para practicidad del cliente. Así, controla cómo pagará y en dónde recibirá la mercancía. 
+
+## Vídeo del proceso UX
+
+En este vídeo nos concentramos en mostrar las tareas que realizamos para concretar la propuesta. Seguimos el esquema 
+
+<a href="https://ibb.co/W58t6wz"><img src="https://i.ibb.co/DWcptyM/etapas.png" alt="etapas" border="0"></a>
+
+https://www.useloom.com/share/db81bb9ac8904c56afee2a0ed921e661
+
+
+https://www.useloom.com/share/778206e6658b48d7a77729fb63ad9127
 
 
 Anexos:
