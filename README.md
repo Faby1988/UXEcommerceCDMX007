@@ -22,7 +22,7 @@ Ubicados en el anexo del Mercado Emilio Carranza, o mejor conocido como el merca
 
 Bio Aquatic es atendido por Roberto L., fundador y gerente general, quien cuenta con la formación de Médico Veterinario Zootecnista (MVZ). El conocimiento desarrollado en sus años de estudiante lo motivo a emprender, eligiendo una temática emergente: el acuarismo. De acuerdo con los datos del Sistema de Producto Acuícola Ornamental de la CDMX, en la década reciente la comercialización de peces de ornato y artículos relacionados ha crecido 250%, algo histórico tras 66 años de exitencia. Por lo que, este negocio se unió a una tendencia en el país. 
 
-Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y la certeza ofrecer peces de ornato sanos. Se agregaron otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil se asemejará al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
+Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y la certeza de ofrecer peces de ornato sanos. Se agregaron otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil se asemejará al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
 
 Actualmente, Bio Aquatic sigue siendo atendido por Roberto, quien asesora y preserva a los productos, más otros tres miembros del staff. El crecimiento se ha dado por la recomendación entre clientes y los grupos de acuariofilia en Facebook. Por lo que, es un negocio sólido y que se perfila, en palabras de su líder, a producir sus propios artículos.
 
@@ -41,12 +41,23 @@ Gracias al contacto con las personas involucradas en el desarrollo del negocio, 
 | Hay desconocimiento por las opciones de pago. | La gama de productos no es evidente, requieren explorar la página o realizar varias preguntas para conocerlo. |
 | La interacción por medio de internet tiene un carácter secundario. | El tiempo de espera para obtener respuestas es prolongado. |
 | En Facebook, existen preguntas reiterativas, por lo que tienen que escribir la información en numerosas ocasiones. | Para concretar una compra virtual es necesario hacerlo por dos medios, primero Facebook y después WhattsApp. |
-| Las entregas están sujetas   | Desconocen la ubicación de la tienda. |
+|    | Desconocen la ubicación de la tienda. |
+
+A partir del proceso de investigación documental y de campo determinamos los siguientes hallazgos:
+* La acuariofilia es una actividad que requiere de dedicación y conocimiento
+* Los usuarios prefieren los procesos ágiles y seguros de compra. Requieren certeza sobre la salud del producto 
+* Los usuarios prefieren los sitios que abarquen una amplia gama de productos
+* Los usuarios buscan formas sencillas y rápidas de entrega de producto
+
+En resumen, atenderemos las siguientes problemáticas:
+
+* El expertise del gerente no ha sido potencializado de manera directa, lo cual no aporta en la fidelización de los nuevos clientes.   
+* Los gama de productos y las especificaciones  no se muestran en procesos intuitivos y el cliente realiza una búsqueda más tardada.
 
 
 ## Definición del público objetivo
 
- Existe una diversidad de características y hábitos de las personas que poseen peces. Elaboramos un plano cartesiano  revisar los diferentes perfiles:
+Existe una diversidad de características y hábitos de las personas que poseen peces. Elaboramos un plano cartesiano para revisar los diferentes perfiles:
 
 <a href="https://ibb.co/mz2VW0d"><img src="https://i.ibb.co/kcwsCJz/ejes-2.png" alt="ejes-2" border="0"></a>
 
@@ -60,6 +71,8 @@ Ahora bien, tomando en cuenta las necesidades de Javier, si realiza un búsqueda
 
 <a href="https://ibb.co/yh33LSd"><img src="https://i.ibb.co/CJrrx2m/cjm-bio-Aquatic.png" alt="cjm-bio-Aquatic" border="0"></a>
 
+Para conocer el proceso de entendimiento, [ver](https://realtimeboard.com/welcomeonboard/irecQm2TfLZGzPyzghHXpR15zuPCQqguujD47M2O1TOabRdfwg3syAjx94DqsBCg)
+
 ## Objetivo 
 
 El trabajo de investigación realizado nos permitió reconocer los principales dolores y beneficios del cliente y los usuarios, con lo cual determinarmos: 
@@ -72,6 +85,10 @@ Nuestro usuarios son los apasionados y para ellos queremos generar una experienc
 
 * ¿Qué es pickup?
 Este nuevo servicio online consiste en realizar el pedido a través del portal del e-commerce, seleccionar la opción preferida de entrega y retirarlo en el tiempo establecido.
+
+<a href="https://ibb.co/gvQ9k5V"><img src="https://i.ibb.co/tZnKV7X/Proto-2.png" alt="Proto-2" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a>
+
+Conocer [Prototipo](https://marvelapp.com/6fjaj0b/screen/54701189)
 
 El e-commerce cuenta con funcionalidades que abarcan:
 
@@ -106,6 +123,7 @@ Con lo anterior generamos los siguientes beneficios a los usuarios:
 
 Así, destacamos la experiencia y mejoramos los procesos de interacción de clientes-negocio.
 
+Presentación a clientes, [ver] (<div class="canva-embed" data-design-id="DADUobgN8-U" data-height-ratio="0.5625" style="padding:56.2500% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"></div><script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script><a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DADUobgN8-U&#x2F;view?utm_content=DADUobgN8-U&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">bio aquatic</a> por <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;blake_a87?utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Balam Bowie</a>)
 
 
 
