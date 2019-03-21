@@ -123,7 +123,7 @@ Con lo anterior generamos los siguientes beneficios a los usuarios:
 
 Así, destacamos la experiencia y mejoramos los procesos de interacción de clientes-negocio.
 
-Presentación a clientes, [ver] (https://www.canva.com/design/DADUobgN8-U/view)
+Presentación a clientes, [ver](https://www.canva.com/design/DADUobgN8-U/view)
 
 
 
