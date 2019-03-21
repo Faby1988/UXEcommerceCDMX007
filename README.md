@@ -20,9 +20,9 @@ Bio Aquatic es una tienda especializada en la venta de peces de ornato y paisaji
   
 Ubicados en el anexo del Mercado Emilio Carranza, o mejor conocido como el mercado de los peces, es un punto emblemático de la ciudad para adquirir artículos relacionados con el acuarismo. Miles de personas se congregan los días martes o domingo  para revisar las novedades en los productos; el resto de la semana, la afluencia se reduce drásticamente y es posible ver al comprador ocasional. 
 
-Bio Aquatic es atendido por Roberto L., fundador y gerente general, quien cuenta con la formación de Médico Veterinario Zootecnista (MVZ). El conocimiento desarrollado en sus años de estudiante lo motivo a emprender con una temática emergente: el acuarismo. De acuerdo con los datos del Sistema de Producto Acuícola Ornamental de la CDMX, en la década reciente la comercialización de peces de ornato y artículos relacionados ha crecido 250%, algo histórico tras 66 años de exitencia. Por lo que, este negocio se unió a una tendencia en el país. 
+Bio Aquatic es atendido por Roberto L., fundador y gerente general, quien cuenta con la formación de Médico Veterinario Zootecnista (MVZ). El conocimiento desarrollado en sus años de estudiante lo motivo a emprender, eligiendo una temática emergente: el acuarismo. De acuerdo con los datos del Sistema de Producto Acuícola Ornamental de la CDMX, en la década reciente la comercialización de peces de ornato y artículos relacionados ha crecido 250%, algo histórico tras 66 años de exitencia. Por lo que, este negocio se unió a una tendencia en el país. 
 
-Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y el saneamiento de los peces de ornato. Incluyéndose otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil se asemejará al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
+Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y la certeza ofrecer peces de ornato sanos. Se agregaron otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil se asemejará al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
 
 Actualmente, Bio Aquatic sigue siendo atendido por Roberto, quien asesora y preserva a los productos, más otros tres miembros del staff. El crecimiento se ha dado por la recomendación entre clientes y los grupos de acuariofilia en Facebook. Por lo que, es un negocio sólido y que se perfila, en palabras de su líder, a producir sus propios artículos.
 
@@ -40,14 +40,13 @@ Gracias al contacto con las personas involucradas en el desarrollo del negocio, 
 | ------ | ---- |
 | Hay desconocimiento por las opciones de pago. | La gama de productos no es evidente, requieren explorar la página o realizar varias preguntas para conocerlo. |
 | La interacción por medio de internet tiene un carácter secundario. | El tiempo de espera para obtener respuestas es prolongado. |
-| En Facebook, existen preguntas reiterativas, por lo que tienen que repetir la información en numerosas ocasiones. | Para concretar una compra virtual es necesario hacerlo por dos medios, primero Facebook y después WhattsApp. || Las entregas están sujetas  | Desconocen la ubicación de la tienda. |
+| En Facebook, existen preguntas reiterativas, por lo que tienen que escribir la información en numerosas ocasiones. | Para concretar una compra virtual es necesario hacerlo por dos medios, primero Facebook y después WhattsApp. |
+| Las entregas están sujetas   | Desconocen la ubicación de la tienda. |
 
 
 ## Definición del público objetivo
 
- Existe una diversidad de características y hábitos de las personas que poseen peces. 
-
-Fue necesario revisar los diferentes perfiles:
+ Existe una diversidad de características y hábitos de las personas que poseen peces. Elaboramos un plano cartesiano  revisar los diferentes perfiles:
 
 <a href="https://ibb.co/mz2VW0d"><img src="https://i.ibb.co/kcwsCJz/ejes-2.png" alt="ejes-2" border="0"></a>
 
