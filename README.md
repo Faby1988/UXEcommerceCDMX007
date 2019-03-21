@@ -120,8 +120,11 @@ Con lo anterior generamos los siguientes beneficios a los usuarios:
 Así, destacamos la experiencia y mejoramos los procesos de interacción de clientes-negocio.
 
 El proceso de compra 
-[![Watch the video](https://www.useloom.com/share/ccd770632ba24fceb1a9a0b7713085e9)]
-https://www.useloom.com/share/ccd770632ba24fceb1a9a0b7713085e9
+
+[(https://www.useloom.com/share/ccd770632ba24fceb1a9a0b7713085e9]
+
+
+
 
 Anexos:
 
