@@ -141,7 +141,9 @@ https://www.useloom.com/share/778206e6658b48d7a77729fb63ad9127
 
 Anexos:
 
-* Transcripción (revisar la documentación del proceso), [leer](https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing). 
+* Transcripción (revisar la documentación del proceso), [leer](https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing).
+
+* Repositorio, [revisar](https://drive.google.com/open?id=1sHRWlY68xfV_Kk7KTkSWHOatjg2Nyuy5)
 
 * Board (ahondar en el proceso UX), [ver](https://realtimeboard.com/welcomeonboard/irecQm2TfLZGzPyzghHXpR15zuPCQqguujD47M2O1TOabRdfwg3syAjx94DqsBCg)
 
