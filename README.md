@@ -22,17 +22,15 @@ Ubicados en el anexo del Mercado Emilio Carranza, o mejor conocido como el merca
 
 Bio Aquatic es atendido por Roberto L., fundador y gerente general, quien cuenta con la formación de Médico Veterinario Zootecnista (MVZ). El conocimiento desarrollado en sus años de estudiante lo motivo a emprender, eligiendo una temática emergente: el acuarismo. De acuerdo con los datos del Sistema de Producto Acuícola Ornamental de la CDMX, en la década reciente la comercialización de peces de ornato y artículos relacionados ha crecido 250%, algo histórico tras 66 años de exitencia. Por lo que, este negocio se unió a una tendencia en el país. 
 
-Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y la certeza de ofrecer peces de ornato sanos. Se agregaron otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil se asemejará al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
+Poco a poco, se fue consolidando en el gusto del público gracias a los conocimientos del gerente sobre el cuidado y la certeza de ofrecer peces de ornato sanos. Se agregaron otros productos como: las plantas para paisajismo, los sustratos y  los equipos para armar una pecera. De la mano del crecimiento en el stock, también se enfatizó en el trato al cliente al incorporar empleados para atender en mostrador, cuyo perfil es semejante al de Roberto. Aproximadamente, en el año 2017 se contrata a una persona para entregas y manejo de redes sociales. Anteriormente, el gerente cumplía con dichas funciones.
 
-Actualmente, Bio Aquatic sigue siendo atendido por Roberto, quien asesora y preserva a los productos, más otros tres miembros del staff. El crecimiento se ha dado por la recomendación entre clientes y los grupos de acuariofilia en Facebook. Por lo que, es un negocio sólido y que se perfila, en palabras de su líder, a producir sus propios artículos.
+Actualmente, Bio Aquatic sigue siendo atendido por Roberto, quien asesora y preserva a los peces y plantas, más otros tres miembros del staff. El crecimiento se ha dado por la recomendación entre clientes y los grupos de acuariofilia en Facebook. Por lo que, es un negocio sólido y que se perfila, en palabras de su líder, a producir sus propios artículos.
 
 ## Problemas identificados en la investigación (del cliente y del usuario)
 
-El acercamiento a lo efectuamos a partir de tres acciones: 
+El acercamiento lo efectuamos a partir de tres acciones: 
 
 <a href="https://ibb.co/dB6X1wp"><img src="https://i.ibb.co/b1LYqMv/proceso.png" alt="proceso" border="0"></a>
-
-Para conocer el proceso a detalle, [leer](https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing). 
 
 Gracias al contacto con las personas involucradas en el desarrollo del negocio, pudimos detectar las siguientes dificultades:
 
@@ -61,7 +59,7 @@ Existe una diversidad de características y hábitos de las personas que poseen 
 
 <a href="https://ibb.co/mz2VW0d"><img src="https://i.ibb.co/kcwsCJz/ejes-2.png" alt="ejes-2" border="0"></a>
 
-Para poder concluir, con nuestro cliente ideal:
+Para poder darle características al cliente ideal:
 
 <a href="https://ibb.co/3StrsSx"><img src="https://i.ibb.co/r5n7t5B/user-person.png" alt="user-person" border="0"></a>
 
@@ -71,8 +69,6 @@ Ahora bien, tomando en cuenta las necesidades de Javier, si realiza un búsqueda
 
 <a href="https://ibb.co/yh33LSd"><img src="https://i.ibb.co/CJrrx2m/cjm-bio-Aquatic.png" alt="cjm-bio-Aquatic" border="0"></a>
 
-Para conocer el proceso de entendimiento, [ver](https://realtimeboard.com/welcomeonboard/irecQm2TfLZGzPyzghHXpR15zuPCQqguujD47M2O1TOabRdfwg3syAjx94DqsBCg)
-
 ## Objetivo 
 
 El trabajo de investigación realizado nos permitió reconocer los principales dolores y beneficios del cliente y los usuarios, con lo cual determinarmos: 
@@ -81,7 +77,7 @@ El trabajo de investigación realizado nos permitió reconocer los principales d
     
 ## Definición de la solución/producto
 
-Nuestro usuarios son los apasionados y para ellos queremos generar una experiencia placentera de búsqueda, una compra ágil y una entrega eficaz. Sabemos que les gusta cuestionar y saber sobre lo que compran, por lo que es necesario exponer la expertise del staff. Para cubrir este cometido, proponemos un e-commerce con el agregado del pickup.
+Nuestro usuarios son los apasionados y para ellos queremos generar una experiencia placentera de búsqueda, una compra ágil y una entrega eficaz. Reconocemos que les gusta cuestionar y saber sobre lo que compran, por lo que es necesario exponer la expertise del staff. Para cubrir este cometido, proponemos un E-commerce con el agregado del pickup.
 
 * ¿Qué es pickup?
 Este nuevo servicio online consiste en realizar el pedido a través del portal del e-commerce, seleccionar la opción preferida de entrega y retirarlo en el tiempo establecido.
@@ -108,8 +104,8 @@ Sobre el contenido, se destaca:
 * El catálogo del nuevo stock
 * Se incluye la gama de los productos que se ofertan en la tienda
 
-Las funcionalidades están diseñadas para cubrir los principales pains detectados. Responden a mejorar la experiencia de compra, al hacerla ágil y acorde a las preferencias. Se requiere recrear el trato personalizado recibido en la tienda, es decir, queremos generar la satisfacción y el mejor recuerdo posible para provocar una nueva compra. 
-Incorporamos contenidos claros y concisos sobre cada uno de los productos, además de incluir todo el stock. A diferencia del contenido presentado en Facebook, el cual es una lista con precios y fotos al final; optamos por darle protagonismo a cada uno de los productos, pues, nuestros usuarios gustan de revisar a detalle lo que compran, así que mejoramos la presentación e información.
+Las funcionalidades están diseñadas para cubrir los principales pains detectados. Responden a mejorar la experiencia de compra, al hacerla ágil y acorde a las preferencias. Se recrea el trato personalizado recibido en la tienda, es decir, queremos generar la satisfacción y el mejor recuerdo posible para provocar una nueva compra. 
+Incorporamos contenidos claros y concisos sobre cada uno de los productos, además de mostrar la variedad del stock. A diferencia del contenido presentado en Facebook, el cual es una lista con precios y fotos al final; en este E-commerce optamos por darle protagonismo a cada uno de los productos, pues, nuestros usuarios gustan de revisar a detalle lo que compran, así que mejoramos la presentación e información.
 
 Con lo anterior generamos los siguientes beneficios a los usuarios:
 
@@ -123,7 +119,35 @@ Con lo anterior generamos los siguientes beneficios a los usuarios:
 
 Así, destacamos la experiencia y mejoramos los procesos de interacción de clientes-negocio.
 
-Presentación a clientes, [ver](https://www.canva.com/design/DADUobgN8-U/view)
+El flujo de la app es el siguiente: 
+
+https://www.useloom.com/share/ccd770632ba24fceb1a9a0b7713085e9
+
+<a href="https://ibb.co/KKf9Ft8"><img src="https://i.ibb.co/8Yfj6yQ/Diagrama-de-flujo.png" alt="Diagrama-de-flujo" border="0"></a>
+
+La propuesta radica en la posibilidad de generar un código que permita contener la información del pedido para practicidad del cliente. Así, controla cómo pagará y en dónde recibirá la mercancía. 
+
+## Vídeo del proceso UX
+
+En este vídeo nos concentramos en mostrar las tareas que realizamos para concretar la propuesta. Seguimos el esquema 
+
+<a href="https://ibb.co/W58t6wz"><img src="https://i.ibb.co/DWcptyM/etapas.png" alt="etapas" border="0"></a>
+
+https://www.useloom.com/share/db81bb9ac8904c56afee2a0ed921e661
+
+
+https://www.useloom.com/share/778206e6658b48d7a77729fb63ad9127
+
+
+Anexos:
+
+* Transcripción (revisar la documentación del proceso), [leer](https://docs.google.com/document/d/18a3AyW_Lg9vTBcdRLu7X6EG17NFWBNzUXSeK98g01-8/edit?usp=sharing).
+
+* Repositorio, [revisar](https://drive.google.com/open?id=1sHRWlY68xfV_Kk7KTkSWHOatjg2Nyuy5)
+
+* Board (ahondar en el proceso UX), [ver](https://realtimeboard.com/welcomeonboard/irecQm2TfLZGzPyzghHXpR15zuPCQqguujD47M2O1TOabRdfwg3syAjx94DqsBCg)
+
+* Presentación a clientes, [ver](https://www.canva.com/design/DADUobgN8-U/view)
 
 
 
