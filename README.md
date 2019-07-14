@@ -84,7 +84,7 @@ Este nuevo servicio online consiste en realizar el pedido a través del portal d
 
 <a href="https://ibb.co/gvQ9k5V"><img src="https://i.ibb.co/tZnKV7X/Proto-2.png" alt="Proto-2" border="0"></a><br /><a target='_blank' href='https://es.imgbb.com/'></a>
 
-Conocer [Prototipo](https://marvelapp.com/6fjaj0b/screen/54701189)
+Conocer [Prototipo](https://marvelapp.com/421f51h/screen/59241473)
 
 El e-commerce cuenta con funcionalidades que abarcan:
 
